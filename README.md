@@ -1,4 +1,5 @@
 This is cache from reddit: https://www.reddit.com/r/Trove/comments/vli2q8/duplicate_item_bug/
+
 This page may be complained by the developer and deleted, please copy or fork by yourself.
 
 This really annoys me, the developers knew about this bug for years and never intended to fix it.
@@ -32,5 +33,7 @@ It's no secret that you can buy the use of these bugs for only $5.
 Hope everyone is working hard to save this game, it's so frustrating.
 
 Duplication of some items will ban, such as: Megaflux Tank.
+
 But you can use an empty account to copy and trade to others for profit,
+
 For example: Frosty Treasure Box, diggsly.
