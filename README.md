@@ -37,3 +37,5 @@ Duplication of some items will ban, such as: Megaflux Tank.
 But you can use an empty account to copy and trade to others for profit,
 
 For example: Frosty Treasure Box, diggsly.
+
+A month ago, the price of crystal pinata was only 5000, because this is also a copy. But now there is no one in the market to copy crystal pinata, but it is not sure whether it has been banned like Megaflux Tank.
