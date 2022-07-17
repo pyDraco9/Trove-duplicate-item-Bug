@@ -2,6 +2,11 @@ This is cache from reddit: https://www.reddit.com/r/Trove/comments/vli2q8/duplic
 
 This page may be complained by the developer and deleted, please copy or fork by yourself.
 
+update:this bug still work, you can copy and transfer stolen goods when the staff is not at work.
+It's stupid to use human review, won't even check inventory.
+![contents](./0717111758.jpg)
+----------------------------------------------------------------------------------------------------
+
 This really annoys me, the developers knew about this bug for years and never intended to fix it.
 
 The Chinese agency had to terminate the contract because of this bug.
